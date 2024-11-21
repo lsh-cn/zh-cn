@@ -1,27 +1,19 @@
-# 📖 Educations
-- *2024.09 - Now*    , Direct doctoral student, Fudan University, Shanghai.
-- *2020.09 - 2024.06*, Undergraduate,China University of Geosciences Beijing (CUGB), Beijing.
-- *2017.09 - 2020.06*, Xinzhou No.1 Middle School, Xinzhou.
-
-
-# 💻 Internships
-- *2021.06 - 2023.09*,[*Beijing BoChuang-Tech Co.,Ltd, Beijing.*](https://www.bbcpetro.com/)
- 
-# <img src='../../images/others/Phoenixtech.jpg' style='width: 4em;'> Startups
-- *2023.11 - 2024.03*,Beijing Feiyi Lingxiao Information Technology Co., Ltd., Founder.
-- *2024.04 - 2024.11*,Ningbo Phoenixtech Technology Co.,Ltd, Founder.
-
-# 💡 Our Fundings
-*Xbotpark Seed-stage Exploration Fund*
-* **Funding:** ￥500,000  
-* **Institutional Investor:** Xbotpark
-
-*Innovation and Entrepreneurship Fund for College Students (2024–2026)*
-* **Funding:** ￥50,000  
-* **Sponsor:** China University of Geosciences, Beijing   
-
-*Innovation and Entrepreneurship Fund for College Students (2022–2023)*
-* **Funding:** ￥10,000  
-* **Sponsor:** China University of Geosciences, Beijing  
-
-
+# 📖 教育经历
+- *2024.09 - 至今*   ，直博生，电子信息，复旦大学，上海。
+- *2020.09 - 2024.06*，本科生，计算机科学与技术，中国地质大学（北京），北京。
+- *2017.09 - 2020.06*，忻州第一中学，忻州。
+# 💻 实习经历
+- *2021.06 - 2023.09*，[北京地大博创科技有限公司，北京。](https://www.bbcpetro.com/)
+# <img src='../../images/others/Phoenixtech.jpg' style='width: 4em;'> 创业经历
+- *2023.11 - 2024.03*，北京飞翼凌霄信息技术有限公司，创始人。
+- *2024.04 - 2024.11*，宁波翎霄科技有限责任公司，创始人。
+# 💡 我们的资金支持
+*Xbotpark种子阶段探索基金*
+- **资金额度：** 50万元
+- **投资机构：** Xbotpark基地
+*大学生创新创业基金（2024–2026）*
+- **资金额度：** 5万元
+- **资助单位：** 中国地质大学（北京）
+*大学生创新创业基金（2022–2023）*
+- **资金额度：** 1万元
+- **资助单位：** 中国地质大学（北京）

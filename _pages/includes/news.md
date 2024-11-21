@@ -1,5 +1,4 @@
 # 🔥 News
-- **2024.09**: 🎉 Enrolled in the School of Information Science and Technology, Fudan University  
-- **2024.06**: 🎉 Graduated with a Bachelor's Degree in Computer Science from China University of Geosciences, Beijing  
-- **2024.03**: 🎉 Joined [<img src='../../images/news/logo.png' style='width: 4em;'>](http://www.xbotpark.com/)
-, and our project obtained seed round financing worth *¥500,000*!
+- **2024.09**: 🎉 入读复旦大学信息科学与工程学院  
+- **2024.06**: 🎉 从中国地质大学（北京）计算机科学与技术专业毕业，获得学士学位
+- **2024.03**: 🎉 加入 [<img src='../../images/news/logo.png' style='width: 4em;'>](http://www.xbotpark.com/), 我们的项目获得了50万元人民币的种子轮融资！
